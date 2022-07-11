@@ -12,7 +12,7 @@ from tqdm import tqdm
 from sklearn.manifold import TSNE
 from umap import UMAP
 import pylab
-
+from matplotlib import pyplot as plt
 
 
 if __name__ == "__main__":
