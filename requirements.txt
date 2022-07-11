@@ -1,0 +1,5 @@
+top2vec
+numpy
+pandas
+matplotlib
+sklearn
